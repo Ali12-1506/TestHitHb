@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="wrong_email">Wrong email ?</string>
+    <string name="confirm">Confirm</string>
+    <string name="code">Code</string>
+    <string name="send_code">sent code for:</string>
+    <string name="email">Email</string>
+    <string name="welcome">Welcome!</string>
+</resources>
